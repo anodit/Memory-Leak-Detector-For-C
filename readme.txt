@@ -1,3 +1,4 @@
+#Inorder to run the program use the following commands in cmd.
 gcc -g -c mld.c -o mld.o
 gcc -g -c LinkedList/LinkedListApi.c -o LinkedList/LinkedListApi.o
 gcc -g -c app.c -o app.o
